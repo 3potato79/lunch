@@ -150,9 +150,9 @@ export default function App() {
   return (
     <div className="app-shell">
       <header className="topbar">
-        <a className="brand" href="/" aria-label="LUNCH 홈">
+        <a className="brand" href="/" aria-label="오늘의 급식 홈">
           <span className="brand-mark" aria-hidden="true">◒</span>
-          <span>LUNCH</span>
+          <span>오늘의 급식</span>
         </a>
         <span className="topbar-caption">학교 점심을 한눈에</span>
       </header>
